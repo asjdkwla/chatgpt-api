@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1b79b3cd-9014-45fb-8c1a-bc984cbdb283" name="chatbot" url="http://8.154.46.213">
+        <fileTransfer accessType="SFTP" host="8.154.46.213" port="22" sshConfigId="356b6d5a-1d0f-45a7-8ba0-cdf428e49486" sshConfig="root@8.154.46.213:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
